@@ -1,4 +1,5 @@
 import { camelCase } from 'lodash'
+import './style.css'
 
 const name =document.querySelector('.name')
 
